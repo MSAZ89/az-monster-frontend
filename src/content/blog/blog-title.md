@@ -1,10 +1,10 @@
 ---
-layout: blog
 title: Blog Title
 description: Blog Desc
 pubDate: 2023-04-13T19:06:01.232Z
 heroImage: /assets/modern-house-1.png
 ---
+
 ### Collections
 
 Collections define the structure for the different content types on your static site. Since every site is different, the `collections` settings differ greatly from one site to the next.
