@@ -2,7 +2,7 @@
 title: Blog Title
 description: Blog Desc
 pubDate: 2023-04-13T19:06:01.232Z
-heroImage: /public/modern-house-1.png
+heroImage: /my-company.png
 ---
 ### Collections
 
