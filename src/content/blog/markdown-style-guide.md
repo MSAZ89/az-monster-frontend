@@ -5,7 +5,7 @@ pubDate: "Jul 01 2022"
 heroImage: "/placeholder-hero.jpg"
 ---
 
-Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro.
+Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro. This shit is fucking terrible!
 
 ## Headings
 
